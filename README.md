@@ -1,11 +1,12 @@
-
-## Hi there 👋
+![gif3](https://github.com/user-attachments/assets/e6d5f1eb-82c7-4989-9d50-be1ad3d9f2d7)
+ 
+  ## Hi there 👋, I'm chippada venkata sai sravani
 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chippada_sravani) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sravani chippada) 
 
-![gif3](https://github.com/user-attachments/assets/e6d5f1eb-82c7-4989-9d50-be1ad3d9f2d7)
+
 
 
 
